@@ -14,4 +14,4 @@
 
 如果你要实现一个纯前端的demo，最简单的方式，是去在线编码网站，例如。codepen，以下是我编辑的一个Hello World
 
-[Codepen Hello World](https://codepen.io/anon/pen/wLYMyd "Hello World")
+<https://codepen.io/anon/pen/wLYMyd>
